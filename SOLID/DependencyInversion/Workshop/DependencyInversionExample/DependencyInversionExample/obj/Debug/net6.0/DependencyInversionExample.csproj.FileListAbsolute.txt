@@ -1,0 +1,15 @@
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\bin\Debug\net6.0\DependencyInversionExample.exe
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\bin\Debug\net6.0\DependencyInversionExample.deps.json
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\bin\Debug\net6.0\DependencyInversionExample.runtimeconfig.json
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\bin\Debug\net6.0\DependencyInversionExample.dll
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\bin\Debug\net6.0\DependencyInversionExample.pdb
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\DependencyInversionExample.csproj.AssemblyReference.cache
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\DependencyInversionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\DependencyInversionExample.AssemblyInfoInputs.cache
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\DependencyInversionExample.AssemblyInfo.cs
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\DependencyInversionExample.csproj.CoreCompileInputs.cache
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\DependencyInversionExample.dll
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\refint\DependencyInversionExample.dll
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\DependencyInversionExample.pdb
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\DependencyInversionExample.genruntimeconfig.cache
+C:\Users\balaz\source\repos\DependencyInversionExample\DependencyInversionExample\obj\Debug\net6.0\ref\DependencyInversionExample.dll
